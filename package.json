@@ -15,7 +15,10 @@
   ],
   "author": "David Marcus",
   "license": "MIT",
-  "repository": "https://github.com/mutlab-app/capacitor-document-scanner.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mutlab-app/capacitor-document-scanner.git"
+  },
   "bugs": {
     "url": "https://github.com/WebsiteBeaver/capacitor-document-scanner/issues"
   },
